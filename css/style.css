@@ -1707,7 +1707,7 @@ input[type="radio"] .styled:checked+label::after {
      border: solid #15cfe5 1px;
 }
 .about {
-     padding-top: 0px !important;
+     padding-top: 90px !important;
      padding: 90px 0px;
 }
 .aboutheading {
